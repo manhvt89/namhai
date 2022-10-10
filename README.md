@@ -15,4 +15,4 @@ Dựa trên mã nguồn mở ospos
 * Báo cáo tồn kho mắt, gọng,
 * Quản lý thành viên 
 * Quản lý đánh giá của khách hàng
-* Quản lý ch
+* Quản lý kh
